@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :banjo: I'm currently working on making a platform where users can delete other users posts.
+- :toilet: I'm currently learning how to be a developer in general, but specifically within Kotlin, even more specifically within android development.
+- :cactus: I'm looking to collaborate on anything. I don't know how do.
+- :partly_sunny: I'm looking for help with how to land a job in software development.
+- :goat: Ask me about what not to do in this wretched world.
+- :neckbeard: How to reach me: Call me, beep me.
+- :mushroom: Pronouns: all
+- :unlock: Fun fact: Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other.
